@@ -15,7 +15,7 @@ The core simulation focuses on the unique challenges of VLEO, specifically the "
 * **Implement Attitude Control:** Design and test a PD (Proportional-Derivative) controller to maintain a Nadir-pointing orientation.
 * **Dual Visualization Pipeline:** Compare lightweight real-time plotting (Matplotlib) against high-fidelity 3D rendering (VTK).
 
-## 📂 Project Structure & Modules
+## Future Scope
 * **Solar Radiation Pressure (SRP):** Implementing disturbance torques from solar photons for higher orbits (GEO).
 * **Reaction Wheel Saturation:** Simulating the physical limits of the actuators (momentum dumping).
 * **Kalman Filtering:** Adding sensor noise to the simulation and implementing a filter to estimate true attitude.
