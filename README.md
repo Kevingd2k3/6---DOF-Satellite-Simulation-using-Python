@@ -34,3 +34,7 @@ The core simulation focuses on the unique challenges of VLEO, specifically the "
 ├── VLEO_Sat_Sim_24Hr.mp4               # Demo: Long-duration simulation output
 ├── VLEO_Sat_Sim_w_OrientationLock.mp4  # Demo: Active control system in action
 └── VTK Visualisation.png               # Screenshot of the VTK render window
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
